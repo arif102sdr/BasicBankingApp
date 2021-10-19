@@ -1,5 +1,5 @@
 # CLICK TO WATCH DEMO OF THE APP
-[BASIC BANKING APP![Bank App Demo Video](https://i.ytimg.com/vi/Qt9l7ImmQx8/hqdefault.jpg)](https://youtu.be/VCMcte4fSYU)
+[BASIC BANKING APP![Bank App Demo Video](https://i.ytimg.com/vi/Qt9l7ImmQx8/hqdefault.jpg)](https://youtu.be/nHk53YnrE5k)
 
 # PROJECT DETAILS
 
