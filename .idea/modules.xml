@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BanksCorpFinancial_Banks.iml" filepath="$PROJECT_DIR$/BanksCorpFinancial_Banks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BankAppDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/BankAppDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BankAppDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BankAppDemo.app.iml" />
     </modules>
   </component>
 </project>
